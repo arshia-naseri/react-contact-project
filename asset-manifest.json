@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-contact-project/static/js/main.32fb9cbe.chunk.js",
+    "main.js.map": "/react-contact-project/static/js/main.32fb9cbe.chunk.js.map",
+    "runtime-main.js": "/react-contact-project/static/js/runtime-main.1b69cf35.js",
+    "runtime-main.js.map": "/react-contact-project/static/js/runtime-main.1b69cf35.js.map",
+    "static/js/2.0a4b0481.chunk.js": "/react-contact-project/static/js/2.0a4b0481.chunk.js",
+    "static/js/2.0a4b0481.chunk.js.map": "/react-contact-project/static/js/2.0a4b0481.chunk.js.map",
+    "index.html": "/react-contact-project/index.html",
+    "static/js/2.0a4b0481.chunk.js.LICENSE.txt": "/react-contact-project/static/js/2.0a4b0481.chunk.js.LICENSE.txt",
+    "static/media/contact.904d8525.vcf": "/react-contact-project/static/media/contact.904d8525.vcf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b69cf35.js",
+    "static/js/2.0a4b0481.chunk.js",
+    "static/js/main.32fb9cbe.chunk.js"
+  ]
+}
